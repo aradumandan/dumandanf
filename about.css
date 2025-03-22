@@ -157,19 +157,20 @@ padding-top: 20px;
 }
 
 .facebook {
-    background-image: url(face.png);
+    background-image: url(facebook.png);
 }
 
 .twitter {
-    background-image: url(twit.png);
+    background-image: url(twitter.png);
 }
 
 .instagram {
     background-image: url(instagram.png);
 } 
 .youtube {
-    background-image: url(youtube.png);
+    background-image: url(youtuve.png);
 } 
+
 
 .selection-four{
     width: 100%;
